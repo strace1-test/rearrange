@@ -15,3 +15,4 @@ Just some added text to test issues in GitHub :D
 Adding another text.
 and again another try.
 and again
+and another try
